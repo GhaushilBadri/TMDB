@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Home"
+        android:enabled="true"
+        android:icon="@drawable/ic_action_home"
+        android:id="@+id/menu_home"/>
+    <item
+        android:title="Watch List"
+        android:enabled="true"
+        android:icon="@drawable/ic_action_watch_list"
+        android:id="@+id/menu_wathslist"/>
+    <item
+        android:title="More"
+        android:enabled="true"
+        android:icon="@drawable/ic_action_settings"
+        android:id="@+id/menu_pengaturan"/>
+</menu>
